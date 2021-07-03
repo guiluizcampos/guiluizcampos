@@ -1,11 +1,13 @@
-<h1 align="center">Hi, I'm Guilherme Luiz Campos</h1>
+<h1 align="center">Hi 👋, I'm Guilherme Luiz Campos</h1>
 <h3 align="center">My goal is to learn, apply and improve knowledge related to software development and agile development.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guiiluiz" alt="guiiluiz" /></a> </p>
 
 - 🔭 I’m currently working on **Localiza Labs**
 
 - 🌱 I’m currently learning **Docker & Kubernetes**
 
-- 📫 Contact me **guiiluiz44@gmail.com**
+- 📫 How to reach me **guiiluiz44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
