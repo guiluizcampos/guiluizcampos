@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker & Kubernetes**
 
-- 📫 How to reach me **guiiluiz44@gmail.com**
+- 📫 Contact me **guiiluiz44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
