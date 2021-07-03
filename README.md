@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guilherme Luiz Campos</h1>
+<h1 align="center">Hi, I'm Guilherme Luiz Campos</h1>
 <h3 align="center">My goal is to learn, apply and improve knowledge related to software development and agile development.</h3>
 
 - 🔭 I’m currently working on **Localiza Labs**
