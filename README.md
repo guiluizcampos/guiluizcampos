@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gui</h1>
+<h1 align="center">Hey there, I'm Gui 👋</h1>
 <h3 align="center">My goal is to learn, apply and improve knowledge related to software development and agile development.</h3>
 
 - 🔭 Currently working as Mid-level Developer on [Retail InMotion](https://www.retailinmotion.com/)
 
-- ⚡ Fun fact **I'm passionate about traveling the world**
+- ⚡ Fun fact **I'm passionate about traveling the world 🌎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
